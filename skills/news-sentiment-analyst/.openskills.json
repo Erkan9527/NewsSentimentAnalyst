@@ -1,0 +1,7 @@
+{
+  "name": "news-sentiment-analyst",
+  "version": "1.1.0",
+  "description": "A-share financial news sentiment analyst",
+  "author": "Theroix",
+  "license": "Apache-2.0"
+}
