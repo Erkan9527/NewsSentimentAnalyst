@@ -7,6 +7,7 @@ __pycache__/
 dist/
 build/
 *.whl
+*.so
 
 # Virtual environments
 .venv/
@@ -42,3 +43,18 @@ logs/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# ruff
+.ruff_cache/
